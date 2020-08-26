@@ -1,8 +1,7 @@
 // require('dotenv').load() is now deprecated (shocking)
 if (process.env.NODE_ENV !== 'production') {
-  // require('dotenv').config();
-  require('dotenv').parse();
-} // @16.35
+  require('dotenv').config();
+}
 
 const express = require('express');
 const app = express();
