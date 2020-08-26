@@ -1,0 +1,2 @@
+left off @ https://www.youtube.com/watch?v=qj2oDkvc4dQ&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=6&t=12s
+Stuck at 16:35 (see server.js comments)
